@@ -1,0 +1,21 @@
+{
+  "name": "reduxexample",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "material-expansion-panel": "^1.0.0",
+    "plotly.js": "^1.38.2",
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0",
+    "react-plotly.js": "^2.2.0",
+    "react-scripts": "1.1.4",
+    "react-vis": "^1.9.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "stop": "kill -F -IM node.exe"
+  }
+}
